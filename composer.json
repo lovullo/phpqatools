@@ -1,0 +1,19 @@
+{
+    "name": "lovullo/phpqatools",
+    "description": "Metapackage containing common PHP QA tools for development.",
+    "license": "GPL-3.0+",
+    "type": "metapackage",
+    "keywords": [ "php", "qa", "tools" ],
+    "require": {
+        "fabpot/php-cs-fixer":         "@stable",
+        "pdepend/pdepend":             "@stable",
+        "phploc/phploc":               "@stable",
+        "phpmd/phpmd":                 "@stable",
+        "phpunit/dbunit":              "@stable",
+        "phpunit/phpunit":             "@stable",
+        "sebastian/phpcpd":            "@stable",
+        "sensiolabs/security-checker": "@stable",
+        "squizlabs/php_codesniffer":   "@stable",
+        "theseer/phpdox":              "@stable"
+    }
+}
