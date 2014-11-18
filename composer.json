@@ -7,7 +7,6 @@
     "require": {
         "fabpot/php-cs-fixer":         "@stable",
         "pdepend/pdepend":             "@stable",
-        "phpdocumentor/phpdocumentor": "@stable",
         "phploc/phploc":               "@stable",
         "phpmd/phpmd":                 "@stable",
         "phpunit/dbunit":              "@stable",
