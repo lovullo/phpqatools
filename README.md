@@ -11,8 +11,12 @@ Composer metapackage containing the following PHP QA and development tools:
 * phpcpd
 * phploc
 * phpdox
+* phpdocumentor
 * php-cs-fixer
 * security-checker
+
+Usage
+==========
 
 Simply require it in your project's `composer.json`
 
