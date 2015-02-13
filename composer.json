@@ -5,15 +5,15 @@
     "type": "metapackage",
     "keywords": [ "php", "qa", "tools" ],
     "require": {
-        "fabpot/php-cs-fixer":         "@stable",
-        "pdepend/pdepend":             "@stable",
-        "phploc/phploc":               "@stable",
-        "phpmd/phpmd":                 "@stable",
-        "phpunit/dbunit":              "@stable",
-        "phpunit/phpunit":             "@stable",
-        "sebastian/phpcpd":            "@stable",
+        "fabpot/php-cs-fixer":         "1.4.2",
+        "pdepend/pdepend":             "2.0.4",
+        "phploc/phploc":               "2.0.6",
+        "phpmd/phpmd":                 "2.2.0",
+        "phpunit/dbunit":              "1.3.1",
+        "phpunit/phpunit":             "4.5.0",
+        "sebastian/phpcpd":            "2.0.1",
         "sensiolabs/security-checker": "@stable",
-        "squizlabs/php_codesniffer":   "@stable",
-        "theseer/phpdox":              "@stable"
+        "squizlabs/php_codesniffer":   "2.2.0",
+        "theseer/phpdox":              "0.7.0"
     }
 }
