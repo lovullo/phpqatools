@@ -1,6 +1,8 @@
 phpqatools
 ==========
 
+*This project is no longer being maintained.*
+
 Composer metapackage containing the following PHP QA and development tools:
 
 * phpunit

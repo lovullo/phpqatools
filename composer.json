@@ -4,6 +4,7 @@
     "license": "GPL-3.0+",
     "type": "metapackage",
     "keywords": [ "php", "qa", "tools" ],
+    "abandoned": true,
     "require": {
         "fabpot/php-cs-fixer":         "1.4.2",
         "pdepend/pdepend":             "2.0.4",
