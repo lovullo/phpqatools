@@ -5,7 +5,7 @@
     "type": "metapackage",
     "keywords": [ "php", "qa", "tools" ],
     "abandoned": true,
-    "require": {
+    "require-dev": {
         "fabpot/php-cs-fixer":         "1.4.2",
         "pdepend/pdepend":             "2.0.4",
         "phploc/phploc":               "2.0.6",

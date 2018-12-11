@@ -22,7 +22,7 @@ Usage
 Simply require it in your project's `composer.json`
 
 ```json
-    "require": {
+    "require-dev": {
         "lovullo/phpqatools": "@stable"
     }
 ```
@@ -30,6 +30,6 @@ Simply require it in your project's `composer.json`
 Or
 
 ```sh
-$ composer require lovullo/phpqatools
+$ composer require --dev lovullo/phpqatools
 ```
 
